@@ -7,7 +7,7 @@ interface Buku {
 
 const buku1: Buku = {
   judul: "Belajar TypeScript",
-  pengarang: "Andi Wijaya",
+  pengarang: "Nathan Rozentals",
   tahunTerbit: 2023,
   tersedia: true
 };
